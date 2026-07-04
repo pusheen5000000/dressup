@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 27f09c148de5fbb42ac65282e6ca81ee
+guid: f246d03af4a58a54190251b3d5d08ec9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1617752406050334977
-    second: BodySkin1_0
+      213: -1081967879102390754
+    second: undergarments_0
+  - first:
+      213: -8724920944760719440
+    second: undergarments_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +116,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BodySkin1_0
+      name: undergarments_0
       rect:
         serializedVersion: 2
-        x: 435
-        y: 99
-        width: 800
-        height: 2594
+        x: 513
+        y: 1851
+        width: 376
+        height: 322
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +131,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 109e929fd39637610800000000000000
-      internalID: 1617752406050334977
+      spriteID: e1e18bb42f31cf0f0800000000000000
+      internalID: -1081967879102390754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undergarments_1
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1385
+        width: 453
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7fb2a90aadae680800000000000000
+      internalID: -8724920944760719440
       vertices: []
       indices: 
       edges: []
@@ -148,7 +173,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      BodySkin1_0: 1617752406050334977
+      undergarments_0: -1081967879102390754
+      undergarments_1: -8724920944760719440
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
