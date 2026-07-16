@@ -1,13 +1,13 @@
 fileFormatVersion: 2
-guid: 98d7422521ee9e044be0073df736940f
+guid: 32bd070fc9e879941825737c4ab63d1f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6566446810552897258
-    second: 5hair_0
+      213: -1824108414254959804
+    second: eyebrows4_0
   - first:
-      213: 4981623058343586315
-    second: 5hair_1
+      213: 563537315823447661
+    second: eyebrows4_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -116,13 +116,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 5hair_0
+      name: eyebrows4_0
       rect:
         serializedVersion: 2
-        x: 431
-        y: 1780
-        width: 539
-        height: 942
+        x: 617
+        y: 2470
+        width: 39
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aee808b6594b02b50800000000000000
-      internalID: 6566446810552897258
+      spriteID: 4433880df077fa6e0800000000000000
+      internalID: -1824108414254959804
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 5hair_1
+      name: eyebrows4_1
       rect:
         serializedVersion: 2
-        x: 855
-        y: 1772
-        width: 45
-        height: 134
+        x: 747
+        y: 2470
+        width: 40
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,8 +153,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b0ae67d17c7422540800000000000000
-      internalID: 4981623058343586315
+      spriteID: d6e6557f33612d700800000000000000
+      internalID: 563537315823447661
       vertices: []
       indices: 
       edges: []
@@ -173,8 +173,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      5hair_0: 6566446810552897258
-      5hair_1: 4981623058343586315
+      eyebrows4_0: -1824108414254959804
+      eyebrows4_1: 563537315823447661
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

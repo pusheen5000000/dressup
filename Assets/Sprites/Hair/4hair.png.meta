@@ -5,9 +5,6 @@ TextureImporter:
   - first:
       213: 1552429286093132326
     second: 4hair_0
-  - first:
-      213: 55927227153367697
-    second: 4hair_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -119,10 +116,10 @@ TextureImporter:
       name: 4hair_0
       rect:
         serializedVersion: 2
-        x: 431
-        y: 1780
-        width: 539
-        height: 942
+        x: 445
+        y: 1713
+        width: 477
+        height: 1044
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -133,28 +130,6 @@ TextureImporter:
       bones: []
       spriteID: 6229e78e5365b8510800000000000000
       internalID: 1552429286093132326
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 4hair_1
-      rect:
-        serializedVersion: 2
-        x: 855
-        y: 1772
-        width: 45
-        height: 134
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 192cfbb4481b6c000800000000000000
-      internalID: 55927227153367697
       vertices: []
       indices: 
       edges: []
@@ -174,7 +149,6 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       4hair_0: 1552429286093132326
-      4hair_1: 55927227153367697
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

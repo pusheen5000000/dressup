@@ -1,13 +1,16 @@
 fileFormatVersion: 2
-guid: 98d7422521ee9e044be0073df736940f
+guid: d7105729e9861df4ea517b0f4b886638
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6566446810552897258
-    second: 5hair_0
+      213: 8062496484374461590
+    second: outfit1_0
   - first:
-      213: 4981623058343586315
-    second: 5hair_1
+      213: -6315554276807541118
+    second: outfit1_1
+  - first:
+      213: 22950474121851672
+    second: outfit1_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -116,13 +119,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 5hair_0
+      name: outfit1_0
       rect:
         serializedVersion: 2
-        x: 431
-        y: 1780
-        width: 539
-        height: 942
+        x: 440
+        y: 1185
+        width: 535
+        height: 990
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +134,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aee808b6594b02b50800000000000000
-      internalID: 6566446810552897258
+      spriteID: 69cb9f9e5ddb3ef60800000000000000
+      internalID: 8062496484374461590
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 5hair_1
+      name: outfit1_1
       rect:
         serializedVersion: 2
-        x: 855
-        y: 1772
-        width: 45
-        height: 134
+        x: 511
+        y: 99
+        width: 162
+        height: 699
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,8 +156,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b0ae67d17c7422540800000000000000
-      internalID: 4981623058343586315
+      spriteID: 28eff23b8d4aa58a0800000000000000
+      internalID: -6315554276807541118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit1_2
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 103
+        width: 161
+        height: 699
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813b579a559815000800000000000000
+      internalID: 22950474121851672
       vertices: []
       indices: 
       edges: []
@@ -173,8 +198,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      5hair_0: 6566446810552897258
-      5hair_1: 4981623058343586315
+      outfit1_0: 8062496484374461590
+      outfit1_1: -6315554276807541118
+      outfit1_2: 22950474121851672
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
