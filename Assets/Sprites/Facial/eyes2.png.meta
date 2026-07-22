@@ -1,13 +1,13 @@
 fileFormatVersion: 2
-guid: d4b9598094ceabb4c9d2a2e4eda5ed3f
+guid: c1cbed821feddb24fa16c4fe03c0bfef
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6056346267815057218
-    second: eyes1_0
+      213: -7519787493405742422
+    second: eyes2_0
   - first:
-      213: -9161014874991333331
-    second: eyes1_1
+      213: 3455716762092047183
+    second: eyes2_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -116,13 +116,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: eyes1_0
+      name: eyes2_0
       rect:
         serializedVersion: 2
-        x: 571
-        y: 2375
-        width: 93
-        height: 81
+        x: 569
+        y: 2380
+        width: 98
+        height: 71
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 24711e9b7d67c0450800000000000000
-      internalID: 6056346267815057218
+      spriteID: aaa2025cd1954a790800000000000000
+      internalID: -7519787493405742422
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: eyes1_1
+      name: eyes2_1
       rect:
         serializedVersion: 2
-        x: 740
-        y: 2375
-        width: 91
-        height: 81
+        x: 737
+        y: 2380
+        width: 97
+        height: 71
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,8 +153,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d20721222898dd080800000000000000
-      internalID: -9161014874991333331
+      spriteID: f4b0cd0061c25ff20800000000000000
+      internalID: 3455716762092047183
       vertices: []
       indices: 
       edges: []
@@ -173,8 +173,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      eyes1_0: 6056346267815057218
-      eyes1_1: -9161014874991333331
+      eyes2_0: -7519787493405742422
+      eyes2_1: 3455716762092047183
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: d4b9598094ceabb4c9d2a2e4eda5ed3f
+guid: aa60ab1eb0831f24184ff9a16f556170
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6056346267815057218
-    second: eyes1_0
-  - first:
-      213: -9161014874991333331
-    second: eyes1_1
+      213: -4363291248898932631
+    second: BodySkin2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -49,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -116,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: eyes1_0
+      name: BodySkin2_0
       rect:
         serializedVersion: 2
-        x: 571
-        y: 2375
-        width: 93
-        height: 81
+        x: 435
+        y: 99
+        width: 800
+        height: 2594
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,30 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 24711e9b7d67c0450800000000000000
-      internalID: 6056346267815057218
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: eyes1_1
-      rect:
-        serializedVersion: 2
-        x: 740
-        y: 2375
-        width: 91
-        height: 81
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d20721222898dd080800000000000000
-      internalID: -9161014874991333331
+      spriteID: 9600fc11ab97273c0800000000000000
+      internalID: -4363291248898932631
       vertices: []
       indices: 
       edges: []
@@ -163,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -173,8 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      eyes1_0: 6056346267815057218
-      eyes1_1: -9161014874991333331
+      BodySkin2_0: -4363291248898932631
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
