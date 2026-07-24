@@ -399,6 +399,7 @@ GameObject:
   - component: {fileID: 1365476225}
   - component: {fileID: 1365476224}
   - component: {fileID: 1365476227}
+  - component: {fileID: 1365476228}
   m_Layer: 5
   m_Name: Button (Legacy)
   m_TagString: Untagged
@@ -542,6 +543,20 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &1365476228
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1365476222}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2499adec417b0294c9133ce38d09e8fe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ButtonSound
+  hoverSound: {fileID: 8300000, guid: 9e2489499071f0348aea43ed09101f53, type: 3}
+  clickSound: {fileID: 8300000, guid: d0e15fd1037526f41bc57df95c4ac509, type: 3}
 --- !u!1 &1466706228
 GameObject:
   m_ObjectHideFlags: 0
@@ -798,6 +813,7 @@ GameObject:
   - component: {fileID: 1849305460}
   - component: {fileID: 1849305459}
   - component: {fileID: 1849305458}
+  - component: {fileID: 1849305462}
   m_Layer: 5
   m_Name: Button (Legacy)
   m_TagString: Untagged
@@ -941,6 +957,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1849305456}
   m_CullTransparentMesh: 1
+--- !u!114 &1849305462
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1849305456}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2499adec417b0294c9133ce38d09e8fe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ButtonSound
+  hoverSound: {fileID: 8300000, guid: 9e2489499071f0348aea43ed09101f53, type: 3}
+  clickSound: {fileID: 8300000, guid: d0e15fd1037526f41bc57df95c4ac509, type: 3}
 --- !u!1 &1884467931
 GameObject:
   m_ObjectHideFlags: 0
